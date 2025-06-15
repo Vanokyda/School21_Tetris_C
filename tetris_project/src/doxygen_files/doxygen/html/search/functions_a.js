@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['tet_5fgenerator_0',['tet_generator',['../tetris__backend_8c.html#a831d8fb570a47e1c622f8b794921da59',1,'tet_generator(MoreGameInfo_t *MoreGameInfo):&#160;tetris_backend.c'],['../tetris__backend_8h.html#a831d8fb570a47e1c622f8b794921da59',1,'tet_generator(MoreGameInfo_t *MoreGameInfo):&#160;tetris_backend.c']]],
+  ['tet_5fmove_5fdown_1',['tet_move_down',['../tetris__backend_8c.html#a749e0cfd760a1ece7f20d395c3ee1134',1,'tet_move_down(MoreGameInfo_t *MoreGameInfo):&#160;tetris_backend.c'],['../tetris__backend_8h.html#a749e0cfd760a1ece7f20d395c3ee1134',1,'tet_move_down(MoreGameInfo_t *MoreGameInfo):&#160;tetris_backend.c']]],
+  ['tet_5fmove_5fleft_2',['tet_move_left',['../tetris__backend_8c.html#a138b31362b52b4e9600483d1e54c18b5',1,'tet_move_left(MoreGameInfo_t *MoreGameInfo):&#160;tetris_backend.c'],['../tetris__backend_8h.html#a138b31362b52b4e9600483d1e54c18b5',1,'tet_move_left(MoreGameInfo_t *MoreGameInfo):&#160;tetris_backend.c']]],
+  ['tet_5fmove_5fright_3',['tet_move_right',['../tetris__backend_8c.html#affa657a78593ea4a31345f86a2665661',1,'tet_move_right(MoreGameInfo_t *MoreGameInfo):&#160;tetris_backend.c'],['../tetris__backend_8h.html#affa657a78593ea4a31345f86a2665661',1,'tet_move_right(MoreGameInfo_t *MoreGameInfo):&#160;tetris_backend.c']]],
+  ['tet_5fmove_5fup_4',['tet_move_up',['../tetris__backend_8c.html#a343f4dfaf1a170e84a42e6b8932306d3',1,'tet_move_up(MoreGameInfo_t *MoreGameInfo):&#160;tetris_backend.c'],['../tetris__backend_8h.html#a343f4dfaf1a170e84a42e6b8932306d3',1,'tet_move_up(MoreGameInfo_t *MoreGameInfo):&#160;tetris_backend.c']]],
+  ['tet_5frotate_5',['tet_rotate',['../tetris__backend_8c.html#a245166fa9bf4812b4c76a7902e9f2935',1,'tet_rotate(MoreGameInfo_t *MoreGameInfo):&#160;tetris_backend.c'],['../tetris__backend_8h.html#a245166fa9bf4812b4c76a7902e9f2935',1,'tet_rotate(MoreGameInfo_t *MoreGameInfo):&#160;tetris_backend.c']]]
+];
